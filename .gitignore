@@ -1,0 +1,6 @@
+/.idea
+/vendor
+*.orig
+
+
+/.php_cs.cache
